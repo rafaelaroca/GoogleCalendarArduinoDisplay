@@ -1,0 +1,4 @@
+
+#Add to /etc/crontab
+#Atualiza calendario a cada 30 minutos
+0,30 *	* * *	aroca	/home/aroca/update-calendar.sh 2>> /home/aroca/update-calendar.log >> /home/aroca/update-calendar.log
