@@ -10,7 +10,9 @@ Arduino sketch (.ino file) queries the index.php file over the network each minu
 
 Google Calendar must be configured to export a public URL of the desired Calendar.
 
-![Screenshot](screenshot.png)
+Image shows the device working. USB Cable is just for power - the system is connected to the Ethernet network, but not a PC using USB
+
+![Device](IMG_20170511_114410944.jpg)
 
 
 
