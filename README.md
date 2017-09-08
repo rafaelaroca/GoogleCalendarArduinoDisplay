@@ -9,3 +9,8 @@ One (or more) Arduino(s) connected to the local network accesses index.php, whic
 Arduino sketch (.ino file) queries the index.php file over the network each minute, and updates the LCD display. 
 
 Google Calendar must be configured to export a public URL of the desired Calendar.
+
+![Screenshot](screenshot.png)
+
+
+
